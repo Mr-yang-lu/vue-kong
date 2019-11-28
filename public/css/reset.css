@@ -21,6 +21,9 @@ body,html{
     overflow: hidden;
 }
 
+#app{
+    height:100%;
+}
 
 
-
+ 
